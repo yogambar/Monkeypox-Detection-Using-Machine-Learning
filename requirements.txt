@@ -8,4 +8,5 @@ imutils
 tk
 pygame
 mediapipe
-docx
+python-docx
+concurrent-log-handler
