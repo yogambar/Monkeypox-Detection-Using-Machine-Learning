@@ -65,3 +65,40 @@ Build **Monkeypox-Detection-Using-Machine-Learning** from the source and install
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/yogambar/Monkeypox-Detection-Using-Machine-Learning
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd Monkeypox-Detection-Using-Machine-Learning
+   ```
+
+3. **Install the dependencies**:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+---
+
+### ▶️ Usage
+
+Run the project with:
+
+```bash
+python {entrypoint}
+```
+
+---
+
+### 🧪 Testing
+
+**Monkeypox-Detection-Using-Machine-Learning** uses the `{test_framework}` test framework. Run the test suite with:
+
+```bash
+pytest
+```
+
+---
+
+## 🔙 Return
+
+[🔼 Back to Top](#monkeypox-detection-using-machine-learning)
